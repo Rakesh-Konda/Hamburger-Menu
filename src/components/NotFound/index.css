@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.not {
+  width: 500px;
+  height: 400px;
+}
+.cc {
+  display: flex;
+
+  justify-content: center;
+  align-self: center;
+}
+.cv {
+  text-align: center;
+}
